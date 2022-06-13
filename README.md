@@ -3,9 +3,9 @@ some requirements: Python 3.7.0, PyTorch 1.7.1
 some other libraries can be easily installed by 'pip install XXX'
 
 
-#################################################################################################################################
-################### For testing the trained model and obtaining the final predictions of the test samples #######################
-#################################################################################################################################
+#########################################################################################################
+######### For testing the trained model and obtaining the final predictions of the test samples #########
+#########################################################################################################
 The testing process can be directly implemented in this dir by running the following bash codes.
 
 The pretrained models and weights can be downloaded from:
