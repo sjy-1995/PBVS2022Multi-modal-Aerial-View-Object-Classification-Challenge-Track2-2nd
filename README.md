@@ -9,10 +9,15 @@ some other libraries can be easily installed by 'pip install XXX'
 The testing process can be directly implemented in this dir by running the following bash codes.
 
 The pretrained models and weights can be downloaded from:
+
 https://drive.google.com/file/d/1vpzuxRMidbLFnyrR7LLLGAlQSJLcfVdS/view?usp=sharing
+
 https://drive.google.com/file/d/1z9jRCSBcFmpKtqD3_1Ux07L_h9AHYS6N/view?usp=sharing
+
 https://drive.google.com/file/d/1ogHyydnsT76wwNwGPdRCi_NoRlcvuPId/view?usp=sharing
+
 https://drive.google.com/file/d/1NV0QuhO92m8PXhN43e6MJX5k5j0OpHLH/view?usp=sharing
+
  
 Step1: Run 'test_swin_Track2_EO_transductive_fortest.py' and the 'test_swin_Track2_EOSAR_transductive_fortest.py' respectively for obtaining the predictions and the corresponding probabilities of the test samples.
 -------------------------------------------------------------------------------
