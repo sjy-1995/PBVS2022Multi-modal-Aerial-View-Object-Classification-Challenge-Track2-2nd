@@ -37,9 +37,9 @@ python copredict.py
 The obtained 'results_final.csv' contains the final predictions reported in our solution.
 
 
-#################################################################################################################################
-######################################### For training all the models in our solution ###########################################
-#################################################################################################################################
+########################################################################################################
+################################# For training all the models in our solution ##########################
+########################################################################################################
 Due to the size limit of the file, the training data and some intermediate trained models are stored in Google Drive, which can be downloaded from the links.
 
 The training data can be downloaded from https://codalab.lisn.upsaclay.fr/my/datasets/download/642745ec-31ca-4158-b228-070f253b247f. And the '.DS_Store' file in it should be removed. 
