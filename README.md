@@ -1,5 +1,5 @@
 # PBVS2022Multi-modal-Aerial-View-Object-Classification-Challenge-Track2
-# (Team:NLPR-RVG, Rank: 2nd)
+# (Team:NLPR-RVG, Rank: 3rd)
 some requirements: Python 3.7.0, PyTorch 1.7.1
 some other libraries can be easily installed by 'pip install XXX'
 
